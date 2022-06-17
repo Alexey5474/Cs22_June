@@ -1,0 +1,6 @@
+C:\Users\pro-12\Desktop\Cs22_June_Frolov_A\С№\Reshenie\Test_Git\bin\Debug\Test_Git.exe.config
+C:\Users\pro-12\Desktop\Cs22_June_Frolov_A\С№\Reshenie\Test_Git\bin\Debug\Test_Git.exe
+C:\Users\pro-12\Desktop\Cs22_June_Frolov_A\С№\Reshenie\Test_Git\bin\Debug\Test_Git.pdb
+C:\Users\pro-12\Desktop\Cs22_June_Frolov_A\С№\Reshenie\Test_Git\obj\Debug\Test_Git.csprojAssemblyReference.cache
+C:\Users\pro-12\Desktop\Cs22_June_Frolov_A\С№\Reshenie\Test_Git\obj\Debug\Test_Git.exe
+C:\Users\pro-12\Desktop\Cs22_June_Frolov_A\С№\Reshenie\Test_Git\obj\Debug\Test_Git.pdb
