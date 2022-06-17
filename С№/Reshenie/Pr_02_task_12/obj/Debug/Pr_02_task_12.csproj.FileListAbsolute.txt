@@ -1,0 +1,5 @@
+C:\Users\pro-14\Desktop\Alexey SQL\С№\Reshenie\Pr_02_task_12\bin\Debug\Pr_02_task_12.exe.config
+C:\Users\pro-14\Desktop\Alexey SQL\С№\Reshenie\Pr_02_task_12\bin\Debug\Pr_02_task_12.exe
+C:\Users\pro-14\Desktop\Alexey SQL\С№\Reshenie\Pr_02_task_12\bin\Debug\Pr_02_task_12.pdb
+C:\Users\pro-14\Desktop\Alexey SQL\С№\Reshenie\Pr_02_task_12\obj\Debug\Pr_02_task_12.exe
+C:\Users\pro-14\Desktop\Alexey SQL\С№\Reshenie\Pr_02_task_12\obj\Debug\Pr_02_task_12.pdb

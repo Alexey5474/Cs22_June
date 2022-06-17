@@ -1,0 +1,6 @@
+C:\Users\pro-14\Desktop\Alexey SQL\С№\Reshenie\Pr_03_task_1\bin\Debug\Pr_03_task_1.exe.config
+C:\Users\pro-14\Desktop\Alexey SQL\С№\Reshenie\Pr_03_task_1\bin\Debug\Pr_03_task_1.exe
+C:\Users\pro-14\Desktop\Alexey SQL\С№\Reshenie\Pr_03_task_1\bin\Debug\Pr_03_task_1.pdb
+C:\Users\pro-14\Desktop\Alexey SQL\С№\Reshenie\Pr_03_task_1\obj\Debug\Pr_03_task_1.exe
+C:\Users\pro-14\Desktop\Alexey SQL\С№\Reshenie\Pr_03_task_1\obj\Debug\Pr_03_task_1.pdb
+C:\Users\pro-14\Desktop\Alexey SQL\С№\Reshenie\Pr_03_task_1\obj\Debug\Pr_03_task_1.csprojAssemblyReference.cache
