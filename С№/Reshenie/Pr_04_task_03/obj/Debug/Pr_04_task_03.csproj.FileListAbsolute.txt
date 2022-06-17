@@ -1,0 +1,5 @@
+C:\Users\pro-14\Desktop\Cs22_June\С№\Reshenie\Pr_04_task_03\bin\Debug\Pr_04_task_03.exe.config
+C:\Users\pro-14\Desktop\Cs22_June\С№\Reshenie\Pr_04_task_03\bin\Debug\Pr_04_task_03.exe
+C:\Users\pro-14\Desktop\Cs22_June\С№\Reshenie\Pr_04_task_03\bin\Debug\Pr_04_task_03.pdb
+C:\Users\pro-14\Desktop\Cs22_June\С№\Reshenie\Pr_04_task_03\obj\Debug\Pr_04_task_03.exe
+C:\Users\pro-14\Desktop\Cs22_June\С№\Reshenie\Pr_04_task_03\obj\Debug\Pr_04_task_03.pdb
