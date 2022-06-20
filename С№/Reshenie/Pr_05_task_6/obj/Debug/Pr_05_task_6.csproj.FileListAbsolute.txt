@@ -1,0 +1,6 @@
+C:\Users\pro-14\Desktop\Cs22_June\С№\Reshenie\Pr_05_task_6\bin\Debug\Pr_05_task_6.exe.config
+C:\Users\pro-14\Desktop\Cs22_June\С№\Reshenie\Pr_05_task_6\bin\Debug\Pr_05_task_6.exe
+C:\Users\pro-14\Desktop\Cs22_June\С№\Reshenie\Pr_05_task_6\bin\Debug\Pr_05_task_6.pdb
+C:\Users\pro-14\Desktop\Cs22_June\С№\Reshenie\Pr_05_task_6\obj\Debug\Pr_05_task_6.csprojAssemblyReference.cache
+C:\Users\pro-14\Desktop\Cs22_June\С№\Reshenie\Pr_05_task_6\obj\Debug\Pr_05_task_6.exe
+C:\Users\pro-14\Desktop\Cs22_June\С№\Reshenie\Pr_05_task_6\obj\Debug\Pr_05_task_6.pdb
